@@ -1,9 +1,6 @@
-name: 522
-
+name: '522'
 channels:
   - conda-forge
-  - defaults
-
 dependencies:
-  - python=3.10
+  - python
   - pandas
